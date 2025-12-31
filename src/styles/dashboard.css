@@ -1,0 +1,106 @@
+.dashboard-layout {
+  min-height: 100vh;
+  background: #f8fafc;
+}
+
+.dashboard-main {
+  margin-left: 240px;
+  padding-top: 64px;
+}
+
+.dashboard-container {
+  padding: 32px;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.dashboard-header h1 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.dashboard-header button {
+  background: #1E1B4D;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.dashboard-header button:hover {
+  background: #1E1B4D;
+}
+
+
+
+.actions-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.actions-table thead {
+  background: #f1f5f9;
+}
+
+.actions-table th,
+.actions-table td {
+  padding: 14px 16px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.actions-table th {
+  font-weight: 600;
+  color: #475569;
+}
+
+.actions-table tbody tr {
+  border-top: 1px solid #e5e7eb;
+}
+
+.actions-table tbody tr:hover {
+  background: #f8fafc;
+}
+
+
+
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid #c7d2fe;
+  background: white;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  font-size: 14px;
+}
+
+/* error */
+
+.error {
+  color: #dc2626;
+  margin-bottom: 12px;
+}
