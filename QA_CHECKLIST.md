@@ -30,7 +30,7 @@ Se intenta iniciar sesión con un correo y contraseña correctos.
 **Resultado obtenido:**  
 - El usuario accede correctamente al Dashboard.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -50,7 +50,7 @@ Se intenta iniciar sesión con credenciales incorrectas.
 **Resultado obtenido:**  
 - Se muestra el mensaje “Usuario o contraseña incorrectos”.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -69,7 +69,7 @@ Se intenta enviar el formulario sin completar los campos.
 **Resultado obtenido:**  
 - El botón no se habilita hasta completar ambos campos.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -85,7 +85,7 @@ Acceso al Dashboard después de un login exitoso.
 **Resultado obtenido:**  
 - El Dashboard se renderiza correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -101,7 +101,7 @@ Verificación de la carga de acciones desde la API.
 **Resultado obtenido:**  
 - Las acciones se muestran correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -120,7 +120,7 @@ Se navega a la siguiente página del listado.
 **Resultado obtenido:**  
 - La paginación funciona correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -136,7 +136,7 @@ Se regresa a la página anterior.
 **Resultado obtenido:**  
 - El comportamiento es el esperado.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -154,7 +154,7 @@ Se abre el modal para crear una nueva acción.
 **Resultado obtenido:**  
 - El modal se abre correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -170,7 +170,7 @@ Se intenta crear una acción sin completar los campos obligatorios.
 **Resultado obtenido:**  
 - El formulario valida correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -188,7 +188,7 @@ Creación de una acción con todos los campos completos.
 **Resultado obtenido:**  
 - La acción se crea y aparece en la tabla.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -204,7 +204,7 @@ Simulación de error en la creación de una acción.
 **Resultado obtenido:**  
 - El error se maneja correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
@@ -220,7 +220,7 @@ Verificación de estados de carga en login y dashboard.
 **Resultado obtenido:**  
 - Los estados de carga funcionan correctamente.
 
-**Estado:** ✅ Aprobado
+
 
 ---
 
