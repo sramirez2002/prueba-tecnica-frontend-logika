@@ -7,16 +7,15 @@ La aplicación fue desarrollada utilizando React y cumple con los requerimientos
 
 ## ▶️ Cómo ejecutar el proyecto
 
-1. Clonar el repositorio.
-2. Instalar dependencias:
+1. Instalar dependencias:
 
 npm install
 
-3. Ejecutar el proyecto en modo desarrollo:
+2. Ejecutar el proyecto en modo desarrollo:
 
 npm run dev
 
-4. Acceder desde el navegador a:
+3. Acceder desde el navegador a:
 
 http://localhost:5173
 
