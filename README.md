@@ -5,7 +5,7 @@ La aplicación fue desarrollada utilizando React y cumple con los requerimientos
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Instalar dependencias:
 
@@ -21,7 +21,7 @@ http://localhost:5173
 
 ---
 
-## 🎯 Objetivo de la prueba
+## Objetivo de la prueba
 
 Desarrollar una aplicación Frontend que permita:
 
@@ -34,7 +34,7 @@ Desarrollar una aplicación Frontend que permita:
 
 ---
 
-## 🧠 Decisiones técnicas
+## Decisiones técnicas
 
 - Se utilizó React con TypeScript para mejorar el tipado y la mantenibilidad.
 - Se implementó React Router DOM para la navegación entre Login y Dashboard.
@@ -45,7 +45,7 @@ Desarrollar una aplicación Frontend que permita:
 
 ---
 
-## 🔐 Autenticación
+## Autenticación
 
 El flujo de autenticación se realiza mediante un formulario de login.
 
@@ -63,7 +63,7 @@ El flujo de autenticación se realiza mediante un formulario de login.
 
 ---
 
-## 📊 Dashboard – Listado de acciones
+## Dashboard – Listado de acciones
 
 El Dashboard muestra un listado paginado de acciones obtenidas desde la API.
 
@@ -80,7 +80,7 @@ El Dashboard muestra un listado paginado de acciones obtenidas desde la API.
 
 ---
 
-## ➕ Crear acción
+##  Crear acción
 
 El usuario puede crear una nueva acción mediante un modal.
 
@@ -99,7 +99,7 @@ El usuario puede crear una nueva acción mediante un modal.
 
 ---
 
-## 🎨 Interfaz de usuario
+## Interfaz de usuario
 
 - El diseño está basado en el archivo de Figma entregado.
 - El login está centrado y contenido en una tarjeta.
@@ -109,7 +109,7 @@ El usuario puede crear una nueva acción mediante un modal.
 
 ---
 
-## ⚠️ Manejo de errores
+## Manejo de errores
 
 - Errores de login muestran mensaje visible al usuario.
 - Errores al cargar acciones muestran feedback visual.
